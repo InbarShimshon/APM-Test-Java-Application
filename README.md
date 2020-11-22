@@ -15,7 +15,7 @@ check version: `mvn -version`
 
 *Optional:* Spring Tool Suite (STS) - https://spring.io/guides/gs/sts/ (optional if you want to make changes to the code)
 
-*Additional:* [Elastic-implementation] highlighted inbar-apm files contain for Elastic APM  (https://github.com/InbarShimshon/APM-Test-Java-Application/blob/main/Elastic-implementation)
+*Additional:* [Elastic-implementation](https://github.com/InbarShimshon/APM-Test-Java-Application/blob/main/Elastic-implementation) highlighted inbar-apm files contain for Elastic APM.
 
 
 
