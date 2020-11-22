@@ -13,9 +13,9 @@ check version: `java -version`
 check version: `mvn -version`
 5) Install Springboot https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html
 
-*Optional:* Spring Tool Suite (STS) - https://spring.io/guides/gs/sts/ (optional if you want to make changes to the code)
+**Optional:** Spring Tool Suite (STS) - https://spring.io/guides/gs/sts/ (optional if you want to make changes to the code)
 
-*Additional:* [Elastic-implementation](https://github.com/InbarShimshon/APM-Test-Java-Application/blob/main/Elastic-implementation) highlighted inbar-apm files contain for Elastic APM.
+**Additional:** [Elastic-implementation](https://github.com/InbarShimshon/APM-Test-Java-Application/blob/main/Elastic-implementation) highlights the inbar-apm files modified in order to set up Elastic APM.
 
 
 
