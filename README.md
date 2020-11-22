@@ -1,11 +1,11 @@
 # APM-Test-Java-Application
 The purpose of this repo is to provide a simple application containing an APM agent to easy set-up locally with the use of Springboot (SpingTookSuite4).
 
+![image!](https://github.com/InbarShimshon/APM-Test-Java-Application/blob/main/image%20(4).png)
 
-(https://github.com/InbarShimshon/APM-Test-Java-Application/blob/main/image%20(4).png)
+
 
 ## What you need:
-
 1) Some patience
 2) Download the inbar-apm file
 3) JDK 8 or later - https://www.oracle.com/java/technologies/javase-downloads.html
@@ -16,7 +16,9 @@ check version: `mvn -version`
 
 **Optional:** Spring Tool Suite (STS) - https://spring.io/guides/gs/sts/ (optional if you want to make changes to the code)
 
-**Additional:** [Elastic-implementation](https://github.com/InbarShimshon/APM-Test-Java-Application/blob/main/Elastic-implementation) highlights the inbar-apm files modified in order to set up Elastic APM.
+**Additional:** 
+[Elastic-implementation]
+(https://github.com/InbarShimshon/APM-Test-Java-Application/blob/main/Elastic-implementation) highlights the inbar-apm files modified in order to set up Elastic APM.
 
 
 
