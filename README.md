@@ -2,6 +2,7 @@
 The purpose of this repo is to provide a simple application containing an APM agent to easy set-up locally with the use of Springboot (SpingTookSuite4).
 
 
+(image (4).png)
 
 ## What you need:
 
