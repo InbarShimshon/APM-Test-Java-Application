@@ -24,7 +24,8 @@ check version: `mvn -version`
 
 
 
-## Build executable .jar file:
+## Build executable .jar file (optional):
+This is only relevant if you wish to make chnages to the application and built a new executable .jar
 
 ```
 mvn compile
