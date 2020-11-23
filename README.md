@@ -1,5 +1,5 @@
 # APM-Test-Java-Application
-The purpose of this repo is to provide a simple application containing an APM agent to easy set-up locally with the use of Springboot (SpingTookSuite4).
+The purpose of this repo is to provide a simple application containing an APM agent to easy set-up locally with the use of Springboot (SpingToolSuite4).
 
 ![image!](https://github.com/InbarShimshon/APM-Test-Java-Application/blob/main/image%20(4).png)
 
