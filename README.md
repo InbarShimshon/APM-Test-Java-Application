@@ -10,7 +10,7 @@ The purpose of this repo is to provide a simple application containing an APM ag
 2) Download the inbar-apm file
 3) JDK 8 or later - https://www.oracle.com/java/technologies/javase-downloads.html
 check version: `java -version`
-4) Maven elastoc-apm-agent https://search.maven.org/search?q=a:elastic-apm-agent
+4) Maven elastic-apm-agent https://search.maven.org/search?q=a:elastic-apm-agent
 check version: `mvn -version`
 5) Install Springboot https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html
 
