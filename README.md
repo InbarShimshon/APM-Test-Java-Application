@@ -28,12 +28,12 @@ check version: `mvn -version`
 This is only relevant if you wish to make changes to the application and built a new executable .jar
 
 
-This will run Maven, telling it to execute the compile goal. When it’s finished, you should find the compiled .class files in the target/classes directory.
+*This will run Maven, telling it to execute the compile goal. When it’s finished, you should find the compiled .class files in the target/classes directory.*
 ```
 mvn compile
 ```
 
-This will create an executable .jar file under target/classes directory
+*This will create an executable .jar file under target/classes directory*
 ```
 ~/inbar-apm inbarshimshon% mvn package
 ```
