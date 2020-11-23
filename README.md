@@ -35,7 +35,7 @@ mvn compile
 
 *This will create an executable .jar file under target/classes directory*
 ```
-~/inbar-apm inbarshimshon% mvn package
+~/path/to/inbar-apm/ mvn package
 ```
 
 
